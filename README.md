@@ -1,0 +1,1 @@
+I have completed the beginner section of the Odin course. This is the first bigger assignment from the Odin project.
